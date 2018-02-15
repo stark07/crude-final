@@ -1,10 +1,9 @@
 <?php
-
 /* Attempt to connect to MySQL database */
-$connectstr_dbhost = '';
-$connectstr_dbname = '';
-$connectstr_dbusername = '';
-$connectstr_dbpassword = '';
+$connectstr_dbhost = 'sqlsrvr01.mysql.database.azure.com';
+$connectstr_dbname = 'crude';
+$connectstr_dbusername = 'rooter@sqlsrvr01';
+$connectstr_dbpassword = 'Test1234';
 
 
 // MS Azure does not allow direct access to MySQL configuration, only via environment
