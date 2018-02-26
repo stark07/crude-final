@@ -2,8 +2,8 @@
 
 /* Database credentials. Assuming you are running MySQL
 server with default setting (user 'root' with no password) */
-define('DB_SERVER', 'sqlsrvr01.mysql.database.azure.com');
-define('DB_USERNAME', 'rooter@sqlsrvr01');
+define('DB_SERVER', 'hrmdbcenter.database.windows.net');
+define('DB_USERNAME', 'crude@hrmdbcenter');
 define('DB_PASSWORD', 'Test1234');
 define('DB_NAME', 'crude');
  
