@@ -1,8 +1,8 @@
 <?php
 /* Attempt to connect to MySQL database */
-$connectstr_dbhost = 'sqlsrvr01.mysql.database.azure.com';
+$connectstr_dbhost = 'hrmdbcenter.database.windows.net';
 $connectstr_dbname = 'crude';
-$connectstr_dbusername = 'rooter@sqlsrvr01';
+$connectstr_dbusername = 'crude@hrmdbcenter';
 $connectstr_dbpassword = 'Test1234';
 
 
